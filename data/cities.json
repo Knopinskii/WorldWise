@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Castelo Branco",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-06T14:33:20.000Z",
+      "notes": "",
+      "position": {
+        "lat": "39.928487087020876",
+        "lng": "-7.338867187500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Paradela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-06T14:33:20.000Z",
+      "notes": "",
+      "position": {
+        "lat": "42.748555167793114",
+        "lng": "-7.536621093750001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Los Yebenes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-10T14:35:25.369Z",
+      "notes": "",
+      "position": {
+        "lat": "39.44037909021054",
+        "lng": "-3.8232421875000004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Hassi Gara",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-17T14:14:02.929Z",
+      "notes": "aqf",
+      "position": {
+        "lat": "29.859401994626875",
+        "lng": "2.7246093750000004"
+      },
+      "id": 98443203
+    }
+  ]
+}
